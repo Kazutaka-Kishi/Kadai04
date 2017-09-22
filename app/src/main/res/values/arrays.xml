@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_ad_art">
+        <item>@drawable/bannar01</item>
+        <item>@drawable/bannar02</item>
+        <item>@drawable/bannar03</item>
+        <item>@drawable/bannar04</item>
+        <item>@drawable/bannar05</item>
+    </array>
+</resources>
